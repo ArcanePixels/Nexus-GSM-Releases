@@ -1,0 +1,55 @@
+NEXUS GAME SERVER MANAGER - NUTZUNGSBEDINGUNGEN (LIZENZ)
+
+Copyright (c) 2026 ArcanePixels Gaming. Alle Rechte vorbehalten.
+Anbieter: ArcanePixels, Angaben siehe https://www.arcanepixels.de/impressum
+
+1. Gegenstand
+Diese Bedingungen gelten für die Software "Nexus Game Server Manager" (Nexus GSM) in der Form, in der sie als Installationsprogramm
+bereitgestellt wird. Der Quellcode ist nicht öffentlich und nicht Teil dieser Lizenz. Die Software ist nicht Open Source.
+
+2. Nutzungsrecht
+Du erhältst ein einfaches, nicht übertragbares, nicht unterlizenzierbares Recht, die Software auf eigenen Geräten zu installieren und für
+eigene und gewerbliche Zwecke zu nutzen, um Spieleserver zu verwalten. Die Software wird kostenlos zur Verfügung gestellt, solange der
+Anbieter nichts anderes mitteilt. Spätere Versionen können anderen Bedingungen unterliegen; für eine bereits erhaltene Version gelten die
+Bedingungen, unter denen du sie erhalten hast.
+
+3. Was nicht erlaubt ist
+- die Software oder Teile davon zu verkaufen, zu vermieten, zu verleihen oder auf eigenen Download-Seiten anzubieten. Das Weitergeben des
+  unveränderten Installationsprogramms an Bekannte ist erlaubt, wenn dabei diese Bedingungen mitgegeben werden;
+- die Software zu verändern, zu dekompilieren oder zurückzuentwickeln, soweit das Gesetz es nicht zwingend erlaubt (z. B. § 69e UrhG);
+- Urheberrechts-, Marken- und Lizenzhinweise zu entfernen;
+- die Software für rechtswidrige Zwecke einzusetzen.
+
+4. Spiele, Mods und Dienste von Dritten
+Nexus lädt auf deinen Klick Spieleserver (SteamCMD/Steam), Mods (uMod, Thunderstore, Oxide) und Laufzeitkomponenten (Proton-GE, Docker)
+von Dritten. Diese stehen unter deren eigenen Lizenzen und Nutzungsbedingungen, die du selbst beachten musst. Nexus ist kein Teil dieser
+Angebote. Du bist dafür verantwortlich, dass dein Betrieb eines Spieleservers und der Einsatz von Mods nach den Regeln des jeweiligen
+Spiels und Anbieters erlaubt ist. Mods sind Code von Dritten und laufen mit den Rechten des Servers; Nexus prüft ihren Inhalt nicht.
+
+5. Marken
+Alle genannten Spiele-, Produkt- und Firmennamen (u. a. Rust, 7 Days to Die, Palworld, Valheim, ARK, Counter-Strike, Steam, SteamCMD,
+Docker, Discord, Windows, Linux, Ubuntu) sind Marken ihrer jeweiligen Inhaber. Nexus GSM ist ein unabhängiges Programm und steht in keiner
+Verbindung zu diesen Inhabern und wird von ihnen weder unterstützt noch empfohlen.
+
+6. Drittanbieter-Komponenten
+Die Software enthält freie Bibliotheken unter eigenen Lizenzen (MIT, ISC, BSD, Apache-2.0, OFL u. a.). Ihre Hinweise stehen in
+THIRD-PARTY-NOTICES.txt. Diese Lizenzen bleiben unberührt; für diese Teile gelten sie, nicht diese Bedingungen.
+
+7. Datenschutz
+Nexus hat keine Nutzerkonten und keine Telemetrie. Welche Verbindungen die Software aufbaut, steht in der App unter "Info" und in der
+Datenschutzerklärung: https://www.arcanepixels.de/datenschutz
+
+8. Haftung
+Da die Software kostenlos überlassen wird, haftet der Anbieter nur für Vorsatz und grobe Fahrlässigkeit. Unberührt bleibt die Haftung für
+die Verletzung von Leben, Körper und Gesundheit, für Arglist, für zugesicherte Eigenschaften und nach dem Produkthaftungsgesetz.
+Insbesondere übernimmt der Anbieter keine Haftung für Datenverlust, Server-Ausfälle, verlorene Spielstände oder Schäden durch Mods und
+Spieldateien von Dritten. Mache regelmäßig Sicherungen deiner Server (die App bietet dafür Backups an) und teste Updates, bevor du sie auf
+wichtigen Servern einsetzt.
+
+9. Laufzeit und Beendigung
+Du kannst die Nutzung jederzeit beenden, indem du die Software deinstallierst. Verstößt du gegen diese Bedingungen, endet dein
+Nutzungsrecht; bereits installierte Kopien sind dann zu löschen.
+
+10. Schlussbestimmungen
+Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts; gegenüber Verbrauchern gilt es nur, soweit zwingende Verbraucherschutzvorschriften
+des Staates, in dem du lebst, nicht entgegenstehen. Ist eine Bestimmung unwirksam, bleibt der Rest wirksam.
